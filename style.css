@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.li
