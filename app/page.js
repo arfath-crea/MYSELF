@@ -128,7 +128,7 @@ export default function HomePage() {
       <div className="mx-auto flex max-w-7xl flex-col gap-6 rounded-[32px] border border-white/10 bg-white/10 p-4 shadow-2xl shadow-black/30 backdrop-blur-2xl sm:p-6 lg:p-8">
         <header className="flex items-center justify-between rounded-full border border-white/10 bg-slate-950/30 px-4 py-3 backdrop-blur-xl">
           <div>
-            <p className="text-xs uppercase tracking-[0.35em] text-slate-400">M. ARFATH</p>
+            <p className="text-xs uppercase tracking-[0.35em] text-slate-400">ARFATH DEVELOPER</p>
             <p className="text-sm text-slate-300">Aspiring Software Engineer • Student Developer</p>
           </div>
           <nav className="hidden gap-5 text-sm text-slate-300 md:flex">

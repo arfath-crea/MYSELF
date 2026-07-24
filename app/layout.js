@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Maya Lane | Portfolio',
+  title: 'Arfath Developer | Portfolio',
   description: 'A polished portfolio experience blending immersive 3D visuals with modern web design.'
 };
 
